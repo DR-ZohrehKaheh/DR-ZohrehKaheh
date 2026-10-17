@@ -12,7 +12,7 @@ I have a PhD in Industrial Engineering and a background in computational modelli
 
 | Project | Focus | Verification |
 |---|---|---|
-| [Marketplace SQL Analytics](https://github.com/DR-ZohrehKaheh/marketplace-sql-analytics) | SQL/SQLite and Python; customer segmentation, category performance and seller concentration | Nine independently reconciled SQL analyses; 36 tests; Ubuntu and Windows CI |
+| [Marketplace SQL Analytics](https://github.com/DR-ZohrehKaheh/marketplace-sql-analytics) | SQL/SQLite and Python; customer segmentation, category performance and seller concentration | Nine independently reconciled SQL analyses; 36 tests; Ubuntu and Windows CI · [DOI](https://doi.org/10.5281/zenodo.23435889) |
 | [AI Delivery Risk Intelligence](https://github.com/DR-ZohrehKaheh/ai-delivery-risk-intelligence) | XGBoost delivery-risk ranking, temporal validation and Streamlit decision support | Dataset-independent tests and documented historical evaluation |
 
 Marketplace SQL Analytics was developed under my direction with disclosed AI assistance. It processes separately obtained historical Olist data and includes input validation, reproducible reporting and explicit metric definitions. It is a descriptive portfolio case study, not a production service. [Methods and verification](https://github.com/DR-ZohrehKaheh/marketplace-sql-analytics/blob/main/docs/VALIDATION.md).

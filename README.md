@@ -8,7 +8,14 @@ Helsinki, Finland
 
 I have a PhD in Industrial Engineering and a background in computational modelling, Bayesian statistics, uncertainty quantification and optimisation. My experience spans research, university teaching and project supervision. I am pursuing industry opportunities in data analysis and machine learning, with an interest in operational decision support and supply-chain analytics.
 
-## Featured industry-focused project
+## Industry-focused portfolio projects
+
+| Project | Focus | Verification |
+|---|---|---|
+| [Marketplace SQL Analytics](https://github.com/DR-ZohrehKaheh/marketplace-sql-analytics) | SQL/SQLite and Python; customer segmentation, category performance and seller concentration | Nine independently reconciled SQL analyses; 36 tests; Ubuntu and Windows CI |
+| [AI Delivery Risk Intelligence](https://github.com/DR-ZohrehKaheh/ai-delivery-risk-intelligence) | XGBoost delivery-risk ranking, temporal validation and Streamlit decision support | Dataset-independent tests and documented historical evaluation |
+
+Marketplace SQL Analytics was developed under my direction with disclosed AI assistance. It processes separately obtained historical Olist data and includes input validation, reproducible reporting and explicit metric definitions. It is a descriptive portfolio case study, not a production service. [Methods and verification](https://github.com/DR-ZohrehKaheh/marketplace-sql-analytics/blob/main/docs/VALIDATION.md).
 
 ### [AI Delivery Risk Intelligence](https://github.com/DR-ZohrehKaheh/ai-delivery-risk-intelligence)
 

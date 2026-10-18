@@ -6,14 +6,14 @@ https://orcid.org/0000-0002-8518-8545
 **Data Science · Machine Learning · Bayesian Modelling**  
 Helsinki, Finland
 
-I have a PhD in Industrial Engineering and a background in computational modelling, Bayesian statistics, uncertainty quantification and optimisation. My experience spans research, university teaching and project supervision. I am pursuing industry opportunities in data analysis and machine learning, with an interest in operational decision support and supply-chain analytics.
+I am a researcher in machine learning, Bayesian computation and operations research, with a PhD in Industrial Engineering. My work focuses on forecasting, uncertainty quantification and optimisation, with applications in supply chains, energy systems and operational decision support. My experience spans computational research, software development, university teaching and research supervision.
 
-## Industry-focused portfolio projects
+## Applied data science projects
 
-| Project | Focus | Verification |
-|---|---|---|
-| [Marketplace SQL Analytics](https://github.com/DR-ZohrehKaheh/marketplace-sql-analytics) | SQL/SQLite and Python; customer segmentation, category performance and seller concentration | Nine independently reconciled SQL analyses; 36 tests; Ubuntu and Windows CI · [DOI](https://doi.org/10.5281/zenodo.23435889) |
-| [AI Delivery Risk Intelligence](https://github.com/DR-ZohrehKaheh/ai-delivery-risk-intelligence) | XGBoost delivery-risk ranking, temporal validation and Streamlit decision support | Dataset-independent tests and documented historical evaluation |
+| Project | Focus | Verification | Software citation / archive |
+|---|---|---|---|
+| [Marketplace SQL Analytics](https://github.com/DR-ZohrehKaheh/marketplace-sql-analytics) | SQL/SQLite and Python; customer segmentation, category performance and seller concentration | Nine independently reconciled SQL analyses; 36 tests; Ubuntu and Windows CI | [DOI](https://doi.org/10.5281/zenodo.23435889) · [Citation metadata](https://github.com/DR-ZohrehKaheh/marketplace-sql-analytics/blob/main/CITATION.cff) |
+| [AI Delivery Risk Intelligence](https://github.com/DR-ZohrehKaheh/ai-delivery-risk-intelligence) | XGBoost delivery-risk ranking, temporal validation and Streamlit decision support | Dataset-independent tests and documented historical evaluation | [DOI](https://doi.org/10.5281/zenodo.23324488) · [Citation metadata](https://github.com/DR-ZohrehKaheh/ai-delivery-risk-intelligence/blob/main/CITATION.cff) |
 
 Marketplace SQL Analytics combines SQL analysis with Python ingestion, validation and reporting. It processes separately obtained historical Olist data and includes input validation, reproducible reporting and explicit metric definitions. It is a descriptive portfolio case study, not a production service. [Methods and verification](https://github.com/DR-ZohrehKaheh/marketplace-sql-analytics/blob/main/docs/VALIDATION.md).
 
@@ -32,9 +32,9 @@ As project supervisor, I taught the concepts and methodology, guided the student
 | Project | Methods and tools | Student collaborator | Software citation / archive |
 |---|---|---|---|
 | [Short-term load forecasting benchmark](https://github.com/DR-ZohrehKaheh/load-forecasting-benchmark) | Chronological evaluation, past-only features, baselines, Random Forest, LightGBM, LSTM and Transformer · Python, scikit-learn, PyTorch | Lei Xing | [DOI](https://doi.org/10.5281/zenodo.23335492) · [Citation metadata](https://github.com/DR-ZohrehKaheh/load-forecasting-benchmark/blob/main/CITATION.cff) |
-| [Supply-chain anomaly ranking](https://github.com/DR-ZohrehKaheh/supply-chain-risk-modelling) | Temporal, graph and hypergraph models; chronological evaluation · Python, PyTorch | Yuyang Zhang | [DOI](https://doi.org/10.5281/zenodo.23312621) |
-| [Classification validation and scoring](https://github.com/DR-ZohrehKaheh/classification-validation) | Validation design, probability calibration and batch inference · Python, scikit-learn | Ruihan Sun | [DOI](https://doi.org/10.5281/zenodo.23312435) |
-| [Bayesian spatial modelling](https://github.com/DR-ZohrehKaheh/bayesian-spatial-modelling) | Native sampling, simulation and trace diagnostics · C++, Python | Jingxuan Hu | [DOI](https://doi.org/10.5281/zenodo.23312496) |
+| [Supply-chain anomaly ranking](https://github.com/DR-ZohrehKaheh/supply-chain-risk-modelling) | Temporal, graph and hypergraph models; chronological evaluation · Python, PyTorch | Yuyang Zhang | [DOI](https://doi.org/10.5281/zenodo.23312621) · [Citation metadata](https://github.com/DR-ZohrehKaheh/supply-chain-risk-modelling/blob/main/CITATION.cff) |
+| [Classification validation and scoring](https://github.com/DR-ZohrehKaheh/classification-validation) | Validation design, probability calibration and batch inference · Python, scikit-learn | Ruihan Sun | [DOI](https://doi.org/10.5281/zenodo.23312435) · [Citation metadata](https://github.com/DR-ZohrehKaheh/classification-validation/blob/main/CITATION.cff) |
+| [Bayesian spatial modelling](https://github.com/DR-ZohrehKaheh/bayesian-spatial-modelling) | Native sampling, simulation and trace diagnostics · C++, Python | Jingxuan Hu | [DOI](https://doi.org/10.5281/zenodo.23312496) · [Citation metadata](https://github.com/DR-ZohrehKaheh/bayesian-spatial-modelling/blob/main/CITATION.cff) |
 
 ## Methods, contributions and citation
 

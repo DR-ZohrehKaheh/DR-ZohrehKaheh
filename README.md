@@ -15,7 +15,7 @@ I have a PhD in Industrial Engineering and a background in computational modelli
 | [Marketplace SQL Analytics](https://github.com/DR-ZohrehKaheh/marketplace-sql-analytics) | SQL/SQLite and Python; customer segmentation, category performance and seller concentration | Nine independently reconciled SQL analyses; 36 tests; Ubuntu and Windows CI · [DOI](https://doi.org/10.5281/zenodo.23435889) |
 | [AI Delivery Risk Intelligence](https://github.com/DR-ZohrehKaheh/ai-delivery-risk-intelligence) | XGBoost delivery-risk ranking, temporal validation and Streamlit decision support | Dataset-independent tests and documented historical evaluation |
 
-Marketplace SQL Analytics was developed under my direction with disclosed AI assistance. It processes separately obtained historical Olist data and includes input validation, reproducible reporting and explicit metric definitions. It is a descriptive portfolio case study, not a production service. [Methods and verification](https://github.com/DR-ZohrehKaheh/marketplace-sql-analytics/blob/main/docs/VALIDATION.md).
+Marketplace SQL Analytics combines SQL analysis with Python ingestion, validation and reporting. It processes separately obtained historical Olist data and includes input validation, reproducible reporting and explicit metric definitions. It is a descriptive portfolio case study, not a production service. [Methods and verification](https://github.com/DR-ZohrehKaheh/marketplace-sql-analytics/blob/main/docs/VALIDATION.md).
 
 ### [AI Delivery Risk Intelligence](https://github.com/DR-ZohrehKaheh/ai-delivery-risk-intelligence)
 
@@ -36,15 +36,13 @@ As project supervisor, I taught the concepts and methodology, guided the student
 | [Classification validation and scoring](https://github.com/DR-ZohrehKaheh/classification-validation) | Validation design, probability calibration and batch inference · Python, scikit-learn | Ruihan Sun | [DOI](https://doi.org/10.5281/zenodo.23312435) |
 | [Bayesian spatial modelling](https://github.com/DR-ZohrehKaheh/bayesian-spatial-modelling) | Native sampling, simulation and trace diagnostics · C++, Python | Jingxuan Hu | [DOI](https://doi.org/10.5281/zenodo.23312496) |
 
-## How to explore this portfolio
+## Methods, contributions and citation
 
-Each README explains the purpose, required inputs, execution steps and limitations. The supply-chain, classification and Bayesian repositories document contributions and disclosed AI assistance in `ATTRIBUTION.md`, and the tested workflow and environment in `VERIFICATION.md`. Load Forecasting Benchmark uses [`AUTHORS.md`](https://github.com/DR-ZohrehKaheh/load-forecasting-benchmark/blob/main/AUTHORS.md), [`METHODS.md`](https://github.com/DR-ZohrehKaheh/load-forecasting-benchmark/blob/main/docs/METHODS.md) and [`VALIDATION.md`](https://github.com/DR-ZohrehKaheh/load-forecasting-benchmark/blob/main/docs/VALIDATION.md); its revised portfolio implementation is not an exact reproduction of the related article. AI Delivery Risk Intelligence documents its methods, historical results and limitations in its README and notebooks. The load-forecasting and delivery-risk projects both include dataset-independent tests in GitHub Actions.
+Each project links to its methods, execution instructions, validation record and contributor credits. The repositories distinguish research demonstrations from operationally validated applications, and historical or synthetic inputs are identified in their documentation.
 
-For citation, use each project’s `CITATION.cff` or `CITATION.bib` where provided. The software DOI links above refer to fixed snapshots; later GitHub documentation may differ. Load Forecasting Benchmark now has a separate software DOI; its related article DOI identifies the article, not the code. Cite the archived software version and include a commit identifier for later revisions. Technical questions and documentation corrections can be raised through the relevant repository’s Issues page.
+For citation, use the project’s `CITATION.cff` or `CITATION.bib`. Software DOIs identify archived releases; include a commit identifier when referring to a later revision. Research publications and software have separate citations.
 
-**Reuse status:** No repository-wide software reuse licence has been granted. For the supply-chain, classification and Bayesian projects, student contributions have publication-only permission; each repository’s `LICENSE_STATUS.md` explains the status. See the separate rights statements for [AI Delivery Risk Intelligence](https://github.com/DR-ZohrehKaheh/ai-delivery-risk-intelligence/blob/main/RIGHTS.md) and [Load Forecasting Benchmark](https://github.com/DR-ZohrehKaheh/load-forecasting-benchmark/blob/main/RIGHTS.md). Citation does not grant reuse permission.
-
-The repositories contain code and technical documentation; raw research datasets and trained model binaries are excluded. AI Delivery Risk Intelligence also includes aggregate historical evaluation summaries. Verification is limited to the scope documented in each repository; operational deployment has not been validated.
+Source code is publicly available for review and citation. Reuse terms are documented in each repository. Technical questions can be raised through the relevant repository’s Issues page.
 
 ## Current interests
 
@@ -52,3 +50,4 @@ The repositories contain code and technical documentation; raw research datasets
 - Machine learning for supply-chain analytics, energy forecasting and operational decision support.
 - Bayesian inference and uncertainty-aware modelling.
 - Translating technical analysis into clear, useful decisions.
+

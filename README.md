@@ -15,13 +15,13 @@ I am a researcher in machine learning, Bayesian computation and operations resea
 | [Marketplace SQL Analytics](https://github.com/DR-ZohrehKaheh/marketplace-sql-analytics) | SQL/SQLite and Python; customer segmentation, category performance and seller concentration | Nine independently reconciled SQL analyses; 36 tests; Ubuntu and Windows CI | [DOI](https://doi.org/10.5281/zenodo.23435889) · [Citation metadata](https://github.com/DR-ZohrehKaheh/marketplace-sql-analytics/blob/main/CITATION.cff) |
 | [AI Delivery Risk Intelligence](https://github.com/DR-ZohrehKaheh/ai-delivery-risk-intelligence) | XGBoost delivery-risk ranking, temporal validation and Streamlit decision support | Dataset-independent tests and documented historical evaluation | [DOI](https://doi.org/10.5281/zenodo.23324488) · [Citation metadata](https://github.com/DR-ZohrehKaheh/ai-delivery-risk-intelligence/blob/main/CITATION.cff) |
 
-Marketplace SQL Analytics combines SQL analysis with Python ingestion, validation and reporting. It processes separately obtained historical Olist data and includes input validation, reproducible reporting and explicit metric definitions. It is a descriptive portfolio case study, not a production service. [Methods and verification](https://github.com/DR-ZohrehKaheh/marketplace-sql-analytics/blob/main/docs/VALIDATION.md).
+Marketplace SQL Analytics combines SQL analysis with Python ingestion, validation and reporting. It processes separately obtained historical Olist data and includes input validation, reproducible reporting and explicit metric definitions. The published version focuses on descriptive analytics; production-service deployment is outside its scope. [Methods and verification](https://github.com/DR-ZohrehKaheh/marketplace-sql-analytics/blob/main/docs/VALIDATION.md).
 
 ### [AI Delivery Risk Intelligence](https://github.com/DR-ZohrehKaheh/ai-delivery-risk-intelligence)
 
 A Python research prototype for e-commerce delivery-risk ranking and interactive decision support, developed by Zohreh Kaheh. It combines **XGBoost, scikit-learn and Streamlit** with temporal validation, probability-calibration diagnostics and bootstrap intervals for performance metrics.
 
-The project includes single-order and batch risk scoring, a dashboard preview, research notebooks, automated tests and documented historical evaluation results. It is a research demonstration; operational deployment has not been validated.
+The project includes single-order and batch risk scoring, a dashboard preview, research notebooks, automated tests and documented historical evaluation results. The published version is a research demonstration; operational deployment and prospective validation are outside its scope.
 
 [Release v0.1.0](https://github.com/DR-ZohrehKaheh/ai-delivery-risk-intelligence/releases/tag/v0.1.0) · [Archived version DOI: 10.5281/zenodo.23324488](https://doi.org/10.5281/zenodo.23324488) · [Citation metadata](https://github.com/DR-ZohrehKaheh/ai-delivery-risk-intelligence/blob/main/CITATION.cff)
 
